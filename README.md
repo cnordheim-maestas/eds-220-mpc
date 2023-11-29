@@ -1,7 +1,7 @@
 # eds-220-mpc
 working with microsoft planetary computer
 
-Caitlin's notes on the python environment:
+## Caitlin's notes on the python environment:
 
 What to do/type in my local terminal:
 
